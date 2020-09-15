@@ -1,7 +1,7 @@
-name: "workflow_R"
+name: workflow_R
 output_dir: ../docs
 navbar:
-  title: "workflow_R"
+  title: workflow_R
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/KiseokUChicago/test
 output:
   workflowr::wflow_html:
     toc: yes
