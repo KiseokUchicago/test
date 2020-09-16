@@ -8,8 +8,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
-Hello! I'm Kiseok.
-# A list of analysis
+Welcome to my research website.My name is Kiseok and here is my tooth data analysis.
 
 * [Teeth growth analysis](teeth.html)
+
+Here is another amazing analysis by Hope Anderson.
+
+* [Teeth growth analysis2](https://hdanderson.github.io/myproject_reproducibility/)
